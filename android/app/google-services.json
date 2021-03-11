@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872895044059",
+    "project_id": "heavenly-f6f07",
+    "storage_bucket": "heavenly-f6f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872895044059:android:443722d71b5aee9fa1affe",
+        "android_client_info": {
+          "package_name": "com.example.heavenly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872895044059-3e7ef1vjnkncueddaq58tgisn8fiaksi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7eq_w7_jNkKA7RRPj0RE9dhBHR-UEkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872895044059-3e7ef1vjnkncueddaq58tgisn8fiaksi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
